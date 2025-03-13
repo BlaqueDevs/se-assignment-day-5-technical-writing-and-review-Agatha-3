@@ -11,7 +11,7 @@ Use feedback
 pay attention to their querries
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 Use visuals
-Provide step by step instructions
+Provide step by step instructions 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 It ensures that your information is clear
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
